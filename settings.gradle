@@ -1,0 +1,2 @@
+rootProject.name = "SysAuid"
+include ':app'

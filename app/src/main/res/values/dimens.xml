@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="block_elevator">14dp</dimen>
+    <dimen name="vertical_margin">16dp</dimen>
+    <dimen name="normal_padding">16dp</dimen>
+    <dimen name="small_horizontal_margin">8dp</dimen>
+    <dimen name="large_text">16sp</dimen>
+    <dimen name="normal_text">14sp</dimen>
+</resources>
